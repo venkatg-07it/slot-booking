@@ -1,0 +1,59 @@
+{
+  data: [
+    {
+      key: 'Stylez Hair Salon',
+      img: '../assets/salon.jpg',
+      address: 'E-city'
+    },
+    {
+      key: 'Fashion Palace',
+      img: './assets/salon.jpeg',
+      address: 'Koromangala'
+    },
+    {
+      key: 'Droma Home Appliances',
+      img: './assets/salon.jpeg',
+      address: 'Yelahanka'
+    },
+    {
+      key: 'Food Corner Restaurant',
+      img: './assets/salon.jpeg',
+      address: 'JP Nagar'
+    },
+    {
+      key: 'Place 5',
+      img: './assets/salon.jpeg',
+      address: 'JP Nagar'
+    },
+    {
+      key: 'Place 6',
+      img: './assets/salon.jpeg',
+      address: 'JP Nagar'
+    },
+    {
+      key: 'Place 7',
+      img: './assets/salon.jpeg',
+      address: 'E-city'
+    },
+    {
+      key: 'Place 8',
+      img: './assets/salon.jpeg',
+      address: 'JP Nagar'
+    },
+    {
+      key: 'Place 9',
+      img: './assets/salon.jpeg',
+      address: 'E-city'
+    },
+    {
+      key: 'Place 10',
+      img: './assets/salon.jpeg',
+      address: 'E-city'
+    },
+    {
+      key: 'Place 11',
+      img: './assets/salon.jpeg',
+      address: 'E-city'
+    }
+  ]
+}
