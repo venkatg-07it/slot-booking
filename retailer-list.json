@@ -1,59 +1,88 @@
 {
   "data": [
+	{
+      "key": "Pantaloons",
+      "img": "../assets/salon.jpg",
+      "address": "Koromangala",
+	  "code": "pantaloon"
+    },
+    {
+      "key": "Pantaloons",
+      "img": "./assets/salon.jpeg",
+      "address": "E-City",
+	  "code": "pantaloon"
+    },
+    {
+      "key": "Pantaloons",
+      "img": "./assets/salon.jpeg",
+      "address": "White Field"
+	  "code": "pantaloon"
+    },
     {
       "key": "Stylez Hair Salon",
       "img": "../assets/salon.jpg",
-      "address": "E-city"
+      "address": "E-city",
+	  "code": "shop1"
     },
     {
       "key": "Fashion Palace",
       "img": "./assets/salon.jpeg",
-      "address": "Koromangala"
+      "address": "Koromangala",
+	  "code": "shop1"
     },
     {
       "key": "Droma Home Appliances",
       "img": "./assets/salon.jpeg",
       "address": "Yelahanka"
+	  "code": "shop1"
     },
     {
       "key": "Food Corner Restaurant",
       "img": "./assets/salon.jpeg",
-      "address": "JP Nagar"
+      "address": "JP Nagar",
+	  "code": "shop2"
     },
     {
       "key": "Place 5",
       "img": "./assets/salon.jpeg",
-      "address": "JP Nagar"
+      "address": "JP Nagar",
+	  "code": "shop2"
     },
     {
       "key": "Place 6",
       "img": "./assets/salon.jpeg",
-      "address": "JP Nagar"
+      "address": "JP Nagar",
+	  "code": "shop2"
     },
     {
       "key": "Place 7",
       "img": "./assets/salon.jpeg",
-      "address": "E-city"
+      "address": "E-city",
+	  "code": "shop2"
     },
     {
       "key": "Place 8",
       "img": "./assets/salon.jpeg",
-      "address": "JP Nagar"
+      "address": "JP Nagar",
+	  "code": "shop2"
     },
     {
       "key": "Place 9",
       "img": "./assets/salon.jpeg",
-      "address": "E-city"
+      "address": "E-city",
+	  "code": "shop3"
     },
     {
       "key": "Place 10",
       "img": "./assets/salon.jpeg",
-      "address": "E-city"
+      "address": "E-city",
+	  "code": "shop3"
     },
     {
       "key": "Place 11",
       "img": "./assets/salon.jpeg",
-      "address": "E-city"
+      "address": "E-city",
+	  "code": "shop3"
     }
   ]
 }
