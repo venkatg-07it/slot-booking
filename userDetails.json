@@ -1,0 +1,42 @@
+[
+    {
+        "username": "venky",
+        "displayName": "VENKATESH. G",
+        "userType": "CUSTOMER"
+    },
+    {
+        "username": "dhaval",
+        "displayName": "DHAVAL PETIWALA",
+        "userType": "CUSTOMER"
+    },
+    {
+        "username": "preethi",
+        "displayName": "PREETHI",
+        "userType": "CUSTOMER"
+    },
+    {
+        "username": "max001",
+        "displayName": "MAX E-CITY",
+        "userType": "RETAILER"
+    },
+    {
+        "username": "max002",
+        "displayName": "MAX MADIWALA",
+        "userType": "RETAILER"
+    },
+    {
+        "username": "max001",
+        "displayName": "MAX E-CITY",
+        "userType": "RETAILER"
+    },
+    {
+        "username": "pantaloon001",
+        "displayName": "PANTALOON MADIWALA",
+        "userType": "RETAILER"
+    },
+    {
+        "username": "pantaloon002",
+        "displayName": "PANTALOON BOOMHANALLI",
+        "userType": "RETAILER"
+    }
+]
