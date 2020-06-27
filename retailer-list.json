@@ -1,16 +1,28 @@
 {
   "data": [
+	{
+      "key": "MAX",
+      "img": "../assets/salon.jpg",
+      "address": "E-City",
+      "code": "max001"
+    },
+	{
+      "key": "MAX",
+      "img": "../assets/salon.jpg",
+      "address": "Madiwala",
+      "code": "max002"
+    },
     {
       "key": "Pantaloons",
       "img": "../assets/salon.jpg",
-      "address": "Koromangala",
-      "code": "pantaloon"
+      "address": "Madiwala",
+      "code": "pantaloon001"
     },
     {
       "key": "Pantaloons",
       "img": "./assets/salon.jpeg",
-      "address": "E-City",
-      "code": "pantaloon"
+      "address": "Boomhanalli",
+      "code": "pantaloon002"
     },
     {
       "key": "Pantaloons",
