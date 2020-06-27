@@ -1,12 +1,12 @@
 {
   "data": [
-	{
+    {
       "key": "MAX",
       "img": "../assets/salon.jpg",
       "address": "E-City",
       "code": "max001"
     },
-	{
+    {
       "key": "MAX",
       "img": "../assets/salon.jpg",
       "address": "Madiwala",
