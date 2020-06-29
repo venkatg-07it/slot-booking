@@ -9,6 +9,7 @@
       "bookingTime": "09:00AM - 10:00AM",
       "shopName": "MAX",
       "retailerCode": "max001",
+      "shopAddress": "E-City",
       "status": "APPROVED"
     },
     {
@@ -20,6 +21,7 @@
       "bookingTime": "09:00AM - 10:00AM",
       "shopName": "MAX",
       "retailerCode": "max001",
+      "shopAddress": "E-City",
       "status": "PENDING"
     },
     {
@@ -31,6 +33,7 @@
       "bookingTime": "09:00AM - 10:00AM",
       "shopName": "MAX",
       "retailerCode": "max001",
+      "shopAddress": "E-City",
       "status": "APPROVED"
     },
     {
@@ -42,6 +45,7 @@
       "bookingTime": "09:00AM - 10:00AM",
       "shopName": "MAX",
       "retailerCode": "max001",
+      "shopAddress": "E-City",
       "status": "PENDING"
     }
   ]
