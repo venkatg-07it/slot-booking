@@ -1,38 +1,48 @@
-[
+{
+  "data": [
     {
-        "username": "venky",
-        "custName": "VENKATESH. G",
-        "custMobNo": "9790555601",
-        "purpose": "for buy cloths",
-        "bookingDate":"30-06-2020",
-        "bookingTime": "09:00AM - 10:00AM",
-        "status": "APPROVED"
+      "username": "venky",
+      "custName": "VENKATESH. G",
+      "custMobNo": "9790555601",
+      "purpose": "for buy cloths",
+      "bookingDate": "30-06-2020",
+      "bookingTime": "09:00AM - 10:00AM",
+      "shopName": "MAX",
+      "retailerCode": "max001",
+      "status": "APPROVED"
     },
     {
-        "username": "venky",
-        "custName": "VENKATESH. G",
-        "custMobNo": "9790555601",
-        "purpose": "for buy cloths",
-        "bookingDate":"30-06-2020",
-        "bookingTime": "09:00AM - 10:00AM",
-        "status": "PENDING"
+      "username": "venky",
+      "custName": "VENKATESH. G",
+      "custMobNo": "9790555601",
+      "purpose": "for buy cloths",
+      "bookingDate": "30-06-2020",
+      "bookingTime": "09:00AM - 10:00AM",
+      "shopName": "MAX",
+      "retailerCode": "max001",
+      "status": "PENDING"
     },
     {
-        "username": "dhaval",
-        "custName": "DHAVAL PETIWALA",
-        "custMobNo": "9790555601",
-        "purpose": "for buy cloths",
-        "bookingDate":"30-06-2020",
-        "bookingTime": "09:00AM - 10:00AM",
-        "status": "APPROVED"
+      "username": "dhaval",
+      "custName": "DHAVAL PETIWALA",
+      "custMobNo": "9790555601",
+      "purpose": "for buy cloths",
+      "bookingDate": "30-06-2020",
+      "bookingTime": "09:00AM - 10:00AM",
+      "shopName": "MAX",
+      "retailerCode": "max001",
+      "status": "APPROVED"
     },
     {
-        "username": "dhaval",
-        "custName": "DHAVAL PETIWALA",
-        "custMobNo": "9790555601",
-        "purpose": "for buy cloths",
-        "bookingDate":"30-06-2020",
-        "bookingTime": "09:00AM - 10:00AM",
-        "status": "PENDING"
+      "username": "dhaval",
+      "custName": "DHAVAL PETIWALA",
+      "custMobNo": "9790555601",
+      "purpose": "for buy cloths",
+      "bookingDate": "30-06-2020",
+      "bookingTime": "09:00AM - 10:00AM",
+      "shopName": "MAX",
+      "retailerCode": "max001",
+      "status": "PENDING"
     }
-]
+  ]
+}
