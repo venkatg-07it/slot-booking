@@ -18,22 +18,30 @@
     {
       "username": "max001",
       "displayName": "MAX E-CITY",
-      "userType": "RETAILER"
+      "userType": "RETAILER",
+      "shopName": "MAX",
+      "shopAddress": "E-City"
     },
     {
       "username": "max002",
       "displayName": "MAX MADIWALA",
-      "userType": "RETAILER"
+      "userType": "RETAILER",
+      "shopName": "MAX",
+      "shopAddress": "E-City"
     },
     {
       "username": "pantaloon001",
       "displayName": "PANTALOON MADIWALA",
-      "userType": "RETAILER"
+      "userType": "RETAILER",
+      "shopName": "MAX",
+      "shopAddress": "E-City"
     },
     {
       "username": "pantaloon002",
       "displayName": "PANTALOON BOOMHANALLI",
-      "userType": "RETAILER"
+      "userType": "RETAILER",
+      "shopName": "MAX",
+      "shopAddress": "E-City"
     }
   ]
 }
